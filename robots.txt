@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: wuxiangyang.github.io/sitemap.xml

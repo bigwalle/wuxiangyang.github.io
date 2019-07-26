@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docker on Jane - A super concise theme for Hugo</title>
+    <link>wuxiangyang.github.io/categories/docker/</link>
+    <description>Recent content in docker on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>jackyang</copyright>
+    <lastBuildDate>Sat, 06 Jul 2019 16:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="wuxiangyang.github.io/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>测试主题</title>
+      <link>wuxiangyang.github.io/post/hello/</link>
+      <pubDate>Sat, 06 Jul 2019 16:01:23 +0800</pubDate>
+      
+      <guid>wuxiangyang.github.io/post/hello/</guid>
+      <description>主题预览,内容有待填充。 qewqeq #qweqe - ada - adasd - adads</description>
+    </item>
+    
+  </channel>
+</rss>
